@@ -24,13 +24,13 @@ mlp weight:torch.int8, bias:torch.float16
 
  + $update/para < 2^{-11} (0.00049),$ no effect
 
-![pic](webp1.webp)
-![pic](amp_32_16.png)
+![pic](pic/webp1.webp)
+![pic](pic/amp_32_16.png)
 
 # AMP
-![pic](amp1.png)
-![pic](amp2.png)
-![pic](amp3.png)
+![pic](pic/amp1.png)
+![pic](pic/amp2.png)
+![pic](pic/amp3.png)
 
 # loss scaling
 using $scaler = GradScaler()$
@@ -41,7 +41,7 @@ using $scaler = GradScaler()$
   - unscale gradients in FP32 for *optimizer.step()*
   
    
-![pic](ls1.png)
-![pic](ls2.png)
-![pic](ls3.png)
-![pic](ls4.png)
+![pic](pic/ls1.png)
+![pic](pic/ls2.png)
+![pic](pic/ls3.png)
+![pic](pic/ls4.png)
