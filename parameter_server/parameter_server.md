@@ -4,6 +4,8 @@
 all gradient are aggregated on one GPU, and then broadcast to all GPUs.
 
 ### 3 different ways for param synchronizaiton
+
+
 ![pic](pic/image1.png)
 
 ## 13.7.2. Ring Synchroniztion
