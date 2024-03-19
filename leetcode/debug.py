@@ -1,3 +1,4 @@
+from math import inf
 def solution(heights, bricks, ladders):
     min_c = 0
     if ladders > 0:
