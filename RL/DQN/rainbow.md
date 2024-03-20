@@ -15,7 +15,7 @@ Paper: https://www.aminer.cn/pub/5a260c8117c44a4ba8a30ecc/rainbow-combining-impr
 ## Inital DQN
 <div align="center">
 <img src=asset/dqn1.png  width=80% />
-<div><br>
+</div><br>
 Paper: https://www.aminer.cn/pub/53e9a682b7602d9702fb756d/playing-atari-with-deep-reinforcement-learning
 
 ## Double Q-learning
@@ -38,7 +38,7 @@ Paper: https://www.aminer.cn/pub/5736960a6e3b12023e51d492/prioritized-experience
 proportional prioritization & rank-based prioritization
 <div align="center">
 <img src=asset/prioritizedreplay1.png  width=80% />
-<div><br>
+</div><br>
 
 ## Dueling networks
 
@@ -58,7 +58,7 @@ Paper: https://www.aminer.cn/pub/599c7b58601a182cd272b540/a-distributional-persp
 
 <div align="center">
 <img src=asset/distributionaldqn.webp  width=80% />
-<div><br>
+</div><br>
 
 ## Noisy Nets
 
@@ -69,7 +69,7 @@ Factorised Gaussian noise
 
 <div align="center">
 <img src=asset/noisynets.webp />
-<div><br>
+</div><br>
 
 extra noise sampling for Dueling DQN
 
@@ -83,14 +83,13 @@ extra noise sampling for Dueling DQN
 
 <br>
 
-<div align="center">
+
 <img src=asset/rainbow2.webp />
-<div>
+
 <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">Ablation Study</div>
-    
+    padding: 2px;">Ablation Study</div></div>
 <br>
 
 
